@@ -1,4 +1,4 @@
-- 👋 Hi, DiarTor
+- 👋 Hi, I’m DiarTor
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me : instagram.com/diartor
