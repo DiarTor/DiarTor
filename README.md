@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seyed Mohammad Mousavi
+- 👋 Hi, DiarTor
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me : instagram.com/diartor
