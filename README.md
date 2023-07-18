@@ -44,5 +44,5 @@ I would be happy to meet new people in my journey <3 </p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diartor)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DiarTor&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=DiarTor&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a>
