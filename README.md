@@ -1,9 +1,3 @@
-- 👋 Hi, I’m DiarTor
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Django
-- 📫 How to reach me : instagram.com/diartor
-
-<!---
-DiarTor/DiarTor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DiarTor&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
