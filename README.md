@@ -20,7 +20,7 @@ I'll be happy to meet new people in my journey <3 </p>
 - 💬 If you have any question/feedback, i'll be happy to hear !
 ## 🔭 I'm currently working on
 
-- Wallet System Project (Ekhtelas-Gar)
+- Ekhtelas-Gar (Wallet System Project)
 ## 🌱 I'm currently learning
 - Django
 - DjangoRest Framework
