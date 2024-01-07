@@ -8,7 +8,7 @@ interests: [
        "Back-end development"
 ]
 experience: ["Junior - Back-end Developer"]
-currently_working_on: ["Personal website"]
+currently_working_on: ["Personal projects"]
 currently_learning: ["Web Development"]
 ```
 ## Technical Skills
