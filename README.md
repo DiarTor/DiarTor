@@ -9,6 +9,7 @@ interests: [
 experience: ["Junior - Back-end Developer"]
 currently_working_on: ["ShopLand Website"]
 currently_learning: ["Web Development"]
+# You Can Reach Me Via Email Or My Telegram : @DiarTor
 ```
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
