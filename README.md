@@ -1,14 +1,13 @@
 ```python
 name: "DiarTor"
 current_job: "FreeLancer"
-email: None
+email: diartor.dev@gmail.com
 interests: [
        "Web development",
-       "Game development",
        "Back-end development"
 ]
 experience: ["Junior - Back-end Developer"]
-currently_working_on: ["Personal projects"]
+currently_working_on: ["ShopLand Website"]
 currently_learning: ["Web Development"]
 ```
 ## Technical Skills
