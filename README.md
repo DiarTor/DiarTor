@@ -22,3 +22,5 @@ currently_learning: ["Web Development"]
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+##
+[![](https://visitcount.itsvg.in/api?id=DiarTor&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
