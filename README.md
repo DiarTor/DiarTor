@@ -1,10 +1,12 @@
 <h1 align="center">DiarTor | Back-End Developer</h1>
 
+<p style="font-size:18px">
 Hi there! I'm a Back-End Developer from Iran who enjoys building things with code.<br>
 I'm passionate about computers, tech, and everything that comes with it.<br>
 When I’m not studying or coding, you’ll probably find me at the gym or playing video games.<br>
 I’m always learning something new and working to improve my skills — especially in programming and software development.<br>
-Feel free to check out my projects or connect via [Telegram](https://t.me/diartor) or [email](mailto:diartor.dev@gmail.com)!
+Feel free to check out my projects or connect via <a href="https://t.me/diartor">Telegram</a> or <a href="mailto:diartor.dev@gmail.com">email</a>!
+</p>
 
 <hr>
 
@@ -21,7 +23,7 @@ Feel free to check out my projects or connect via [Telegram](https://t.me/diarto
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+<hr>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
