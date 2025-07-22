@@ -1,6 +1,7 @@
 <h1 align="center">DiarTor | Back-End Developer</h1>
 
-# 💫 About Me:
+<h3><b>💫 About Me:</b></h3>
+
 Hi there! I'm a Backe-End Developer from Iran who enjoys building things with code.<br>I'm passionate about computers, tech, and everything that comes with it.<br>When I’m not studying or coding, you’ll probably find me at the gym or playing video games.<br>I’m always learning something new and working to improve my skills — especially in programming and software development.<br>Feel free to check out my projects or connect via [Telegram](https://t.me/diartor) or [email](mailto:diartor.dev@gmail.com) !
 
 # 💻 Tech Stack:
