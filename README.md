@@ -1,7 +1,5 @@
 <h1 align="center">DiarTor | Back-End Developer</h1>
 
-<h3><b>💫 About Me:</b></h3>
-
 Hi there! I'm a Back-End Developer from Iran who enjoys building things with code.<br>
 I'm passionate about computers, tech, and everything that comes with it.<br>
 When I’m not studying or coding, you’ll probably find me at the gym or playing video games.<br>
