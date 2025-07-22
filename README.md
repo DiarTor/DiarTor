@@ -8,7 +8,7 @@ When I’m not studying or coding, you’ll probably find me at the gym or playi
 I’m always learning something new and working to improve my skills — especially in programming and software development.<br>
 Feel free to check out my projects or connect via [Telegram](https://t.me/diartor) or [email](mailto:diartor.dev@gmail.com)!
 
-<br>
+<hr>
 
 <div align="center">
 
