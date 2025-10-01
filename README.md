@@ -5,7 +5,7 @@ Hi there! I'm a Back-End Developer from Iran who enjoys building things with cod
 I'm passionate about computers, tech, and everything that comes with it.<br>
 When I’m not studying or coding, you’ll probably find me at the gym or playing video games.<br>
 I’m always learning something new and working to improve my skills — especially in programming and software development.<br>
-Feel free to check out my projects or connect via <a href="https://t.me/diartor">Telegram</a> or <a href="mailto:diartor.dev@gmail.com">email</a>!
+Feel free to check out my projects! you can connect with me via <a href="https://t.me/diartor">Telegram</a> or <a href="mailto:diartor.dev@gmail.com">email</a>!
 </p>
 
 <hr>
